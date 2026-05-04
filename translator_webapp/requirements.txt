@@ -1,0 +1,8 @@
+# Backend dependencies for the Seq2Seq Translator API
+# Install with: pip install -r requirements.txt
+
+fastapi>=0.100.0
+uvicorn>=0.23.0
+torch>=2.0.0
+numpy>=1.24.0
+datasets>=2.14.0
